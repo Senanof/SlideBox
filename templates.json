@@ -1,0 +1,12 @@
+[
+  {
+    "image": "templates/template1.jpg",
+    "title": "Şablon 1 - İqtisadiyyat",
+    "waText": "Salam! Mən Şablon 1-i sifariş etmək istəyirəm."
+  },
+  {
+    "image": "templates/template2.jpg",
+    "title": "Şablon 2 - Tibb",
+    "waText": "Salam! Mən Şablon 2-ni sifariş etmək istəyirəm."
+  }
+]
